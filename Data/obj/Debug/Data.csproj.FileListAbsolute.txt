@@ -1,0 +1,6 @@
+C:\Users\Thomas-CM\source\repos\Formulario\Data\bin\Debug\Data.dll
+C:\Users\Thomas-CM\source\repos\Formulario\Data\bin\Debug\Data.pdb
+C:\Users\Thomas-CM\source\repos\Formulario\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Thomas-CM\source\repos\Formulario\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Thomas-CM\source\repos\Formulario\Data\obj\Debug\Data.dll
+C:\Users\Thomas-CM\source\repos\Formulario\Data\obj\Debug\Data.pdb

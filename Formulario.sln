@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Formulario", "..\..\WebSites\Formulario\", "{31D19E10-DFB0-47CB-BB94-0AA7789A6D48}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{dbb06bf2-2226-495f-99c1-b2dada49191b}|Data.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57468"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Formulario\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57468\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57468"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Formulario\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57468\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57468"
+		SlnRelativePath = "..\..\WebSites\Formulario\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{DBB06BF2-2226-495F-99C1-B2DADA49191B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D19E10-DFB0-47CB-BB94-0AA7789A6D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D19E10-DFB0-47CB-BB94-0AA7789A6D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D19E10-DFB0-47CB-BB94-0AA7789A6D48}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D19E10-DFB0-47CB-BB94-0AA7789A6D48}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DBB06BF2-2226-495F-99C1-B2DADA49191B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB06BF2-2226-495F-99C1-B2DADA49191B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB06BF2-2226-495F-99C1-B2DADA49191B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB06BF2-2226-495F-99C1-B2DADA49191B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A02F3D8-6F85-4FC7-9096-31D1B7269870}
+	EndGlobalSection
+EndGlobal
